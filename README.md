@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Ysshas
+- 👀 I’m interested in learning python
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on python
+- 📫 How to reach me puthon
+- 😄 Pronouns: python 
+- ⚡ Fun fact: i dont know anything about python 
+-Please help me learn python
